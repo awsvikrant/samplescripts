@@ -27,7 +27,7 @@ then
     	exit 1
     fi
 else
-	echo "Please provide ECS Cluster Name. For example stop-task-containerinstance-wise.sh default"
+	echo "Please provide ECS Cluster Name. For example: stop-task-containerinstance-wise.sh default"
 	exit 1
 fi
 
